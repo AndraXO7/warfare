@@ -7,7 +7,7 @@
 
 > # **Download "Warfare"**
 
-*Please Checkout the [Latest release](https://github.com/AndraXO7/warfare/releases)* to download the game!
+*Please Checkout the [Latest release](https://github.com/AndraXO7/warfare/releases)* to download the Official game release!
 
 <br/>
 
