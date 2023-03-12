@@ -1,15 +1,17 @@
 
 # Warfare
+<br/>
 
+## Game Summary
 ***"Warfare" is comparative multiplayer online game.***
 
-<br/><br/>
+<br/>
 
-> # **Download "Warfare"**
+# **Download "Warfare"**
 
 *Please Checkout the [Latest releases](https://github.com/AndraXO7/warfare/releases)* to download the game!
 
-<br/>
+<br/><br/>
 
 > ## Game Design Document
 *Please Checkout the  [Game Design Document.docx](https://github.com/AndraXO7/warfare/files/10949891/Game.Design.Document.docx) if you are interested.*
