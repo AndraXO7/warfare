@@ -18,7 +18,7 @@
 <br/>
 
 > ## Game Design Document
-*Please Checkout the [Game Design Document.docx](https://github.com/AndraXO7/warfare/files/10949891/Game.Design.Document.docx) if you are interested.*
+*Please Checkout the [Game Design Document.docx](https://github.com/AndraXO7/warfare/blob/main/Game%20Design%20Document.docx?raw=true) if you are interested.*
 
 <br/>
 
