@@ -7,7 +7,7 @@
 
 <br/>
 
-# **Download "Warfare"**
+# Download (Windows Only)
 
 *Please Checkout the [Latest releases](https://github.com/AndraXO7/warfare/releases)* to download the game!
 
@@ -25,3 +25,8 @@
 
 > ## Core loop
 *Please Checkout the Core loop of the game in  [Miro](https://miro.com/app/board/uXjVP05DgW4=/) if you are interested.*
+
+<br/>
+
+## License
+[MIT License](LICENSE)
