@@ -11,10 +11,6 @@
 
 *Please Checkout the [Latest releases](https://github.com/AndraXO7/warfare/releases) to download the game!*
 
-# Download Source Code (Unity3D)
-
-*Please Checkout the [Mega](https://mega.nz/file/nOx2HagT#PIJ4BmWzmkT9ulLo79XMVSbxJ4ZRzVgW-8lyUR9S-wI) to download the Source Code!*
-
 <br/>
 
 > ## Game Design Document
