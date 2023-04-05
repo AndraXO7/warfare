@@ -9,7 +9,7 @@
 
 # Download Official Release (Windows Only)
 
-*Please Checkout the **[Latest releases](https://github.com/AndraXO7/warfare/releases)** to download the game!*
+*Please Checkout the **[Mega](https://mega.nz/file/PXp0jb7B#o1aMW60e6PwjB_1b6z778BPts-f0GYIcZCgHy2mGBGQ)** to download the game!*
 
 <br/>
 
